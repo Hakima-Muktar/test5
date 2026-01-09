@@ -1,4 +1,4 @@
-feedback_id,product,customer_feedback,word_count,processed_feedback,normalized__feedback
+feedback_id,product,customer_feedback,word_count,processed_feedback,normalized_feedback
 1,Credit Card,I hate the <br>high interest rates on my credit card. It's too much! Call me at 555-1234. Visit our site: http://example.com,21,i hate the high interest rates on my credit card its too much call me at  visit our site,hate high interest rat credit card much call visit site
 2,Personal Loan,My loan application was 'delayed'. This is SO frustrating!!!,9,my loan application was delayed this is so frustrating,loan application delay frustrate
 3,BNPL,"The Buy Now, Pay Later option is gr8. No issues :)",11,the buy now pay later option is gr8 no issues,buy pay later option gr8 issue
