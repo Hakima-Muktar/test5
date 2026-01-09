@@ -1,0 +1,12 @@
+feedback_id,product,customer_feedback,word_count,processed_feedback,normalized__feedback
+1,Credit Card,I hate the <br>high interest rates on my credit card. It's too much! Call me at 555-1234. Visit our site: http://example.com,21,i hate the high interest rates on my credit card its too much call me at  visit our site,hate high interest rat credit card much call visit site
+2,Personal Loan,My loan application was 'delayed'. This is SO frustrating!!!,9,my loan application was delayed this is so frustrating,loan application delay frustrate
+3,BNPL,"The Buy Now, Pay Later option is gr8. No issues :)",11,the buy now pay later option is gr8 no issues,buy pay later option gr8 issue
+4,Savings Account,"I'm trying to open a savings account, but the app keeps crashing (iOS 17). Plz fix.",16,im trying to open a savings account but the app keeps crashing ios 17 plz fix,im try open saving account app keep crash io 17 plz fix
+5,Credit Card,Bad service for my credit card. Really disappointed. I will call again at 555-9876.,14,bad service for my credit card really disappointed i will call again at,bad service credit card really disappoint call
+7,Credit Card,My credit card statement is unclear. I need help understanding the fees.,12,my credit card statement is unclear i need help understanding the fees,credit card statement unclear need help understand fee
+8,Personal Loan,I applied for a loan 2 weeks ago... still NO ANSWER!!! Support is useless. #Angry #Finance,16,i applied for a loan 2 weeks ago still no answer support is useless angry finance,apply loan 2 week ago still answer support useless angry finance
+9,Savings Account,How do I transfer money to my son in Europe? IBAN: DE123456789. Urgent!,13,how do i transfer money to my son in europe iban de123456789 urgent,transfer money son europe iban de123456789 urgent
+10,BNPL,"Love the BNPL feature, but the late fees are hidden in the T&Cs. Not cool.",15,love the bnpl feature but the late fees are hidden in the tcs not cool,love bnpl feature late fee hide tc cool
+11,Money Transfers,M-Pesa transfer failed but money was deducted. Transaction ID: 987654321.,10,mpesa transfer failed but money was deducted transaction id 987654321,mpesa transfer fail money deduct transaction id 987654321
+12,Credit Card,I love this bank! Best service ever. ❤️🌟,8,i love this bank best service ever,love bank best service ever
